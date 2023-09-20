@@ -18,4 +18,4 @@ Rules:
 - Racism 
 
 4, Follow this few rules!!
-- They are for better experience.
+- They are for the better experience.
