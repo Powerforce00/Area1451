@@ -2,6 +2,8 @@
 
 <a id="Join Discord">https://discord.gg/7G4J3ADXFE</a>
 
+![Join Discord](https://discord.gg/7G4J3ADXFE)
+
 # Welcome to Area 1451!
 
 Rules:
