@@ -4,11 +4,16 @@
 # Welcome to Area 1451!
 
 Rules:
-1, Don't bring up politics, racism.
-- Respect other traditions. That's better.
+1, This is a duel server!
+- Only 1v1!!
+- Use "tp ffa" if you can't get over it.
 
-2, Patience is key. Be patient.
-- Interrupting, bullying going to couse ban after all...
-
-3, FFA is allowed only in designated areas!
+2, FFA is allowed only in designated areas! ☛tp ffa☚
 - Otherwise it causes > Warning > Kick > Ban.
+
+3, Other things which are forbidden:
+- Interrupting, spamming, bothering and other annoying things
+will result in a ban.
+
+4, Be aware about rules!!
+- They are there for better experience.
