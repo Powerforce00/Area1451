@@ -5,9 +5,9 @@ Welcome to Area 1451!
 
 Rules:
 
-1, This is a duel server!
-- Only 1v1!!
-- Use x1(flurish) to chellenge others.
+# 1, This is a duel server!
+# - Only 1v1!!
+# - Use x1(flurish) to chellenge others.
 
 2, FFA is allowed only in designated areas! ☛tp ffa☚
 - Otherwise it causes > Warning > Kick > Ban.
