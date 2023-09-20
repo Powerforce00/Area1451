@@ -12,9 +12,10 @@ Rules:
 2, FFA is allowed only in designated areas! ☛tp ffa☚
 - Otherwise it causes > Warning > Kick > Ban.
 
-3, Other things which are forbidden:
-- Interrupting, spamming, bothering and other annoying things
-will result in a ban.
+3, Other things which are forbidden and can get you banned:
+- Interrupting
+- Toxic behaviour
+- Racism 
 
 4, Be aware about rules!!
 - They are there for better experience.
