@@ -4,6 +4,7 @@
 # Welcome to Area 1451!
 
 Rules:
+
 1, This is a duel server!
 - Only 1v1!!
 - Use "tp ffa" if you can't get over it.
