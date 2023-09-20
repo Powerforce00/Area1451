@@ -7,7 +7,7 @@ Rules:
 
 1, This is a duel server!
 - Only 1v1!!
-- Use "tp ffa" if you can't get over it.
+- Use x1(flurish) to chellenge others.
 
 2, FFA is allowed only in designated areas! ☛tp ffa☚
 - Otherwise it causes > Warning > Kick > Ban.
@@ -17,5 +17,5 @@ Rules:
 - Toxic behavior
 - Racism 
 
-4, Be aware about rules!!
-- They are there for better experience.
+4, Follow this few rules!!
+- They are for better experience.
