@@ -1,7 +1,7 @@
 ![AREA 1451](https://github.com/Powerforce00/Area1451/assets/145535983/f751eaac-3d43-458d-84f0-fabf2b4711b5)
 
 # Welcome to Area 1451!
-<a id="https://discord.gg/7G4J3ADXFE">Join Discord!!</> 
+<a id="Join Discord!!">https://discord.gg/7G4J3ADXFE</>
 
 Rules:
 
