@@ -9,7 +9,7 @@ Rules:
 - Only 1v1!!
 - Use x1(flurish) to chellenge others.
 
-2, FFA is allowed only in designated areas! ☛tp ffa☚
+2, FFA is allowed only in designated areas! <<tp ffa>>
 - Otherwise it causes > Warning > Kick > Ban.
 
 3, Other things which are forbidden and can get you banned:
