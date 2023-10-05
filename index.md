@@ -3,20 +3,6 @@
 # Welcome to Area 1451!
 <a id="Join Discord!!">https://discord.gg/7G4J3ADXFE</>
 
-<table>
-  <thead>
-    <th>RULES</th>
-    <th></th>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td></td>
-      <td>No FFA!!</td>
-    </tr>
-  </tbody>
-</table>
-
 Rules:
 
 1, This is a duel server!
