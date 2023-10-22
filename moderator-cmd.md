@@ -3,6 +3,7 @@ Moderator Commands
 Moderating
 
 .warn "playername" "reason" 
+
 #E.g. .warn player ffa 
 #First is just a warning, second is a kick and from the third warning onward every warning adds an additional 60 minute ban for every warning.
 .warns "player" #check warnings 
