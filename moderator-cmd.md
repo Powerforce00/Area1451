@@ -3,11 +3,12 @@ Moderator Commands
 Moderating
 
 .warn "playername" "reason" 
+.warns "player" #check warnings 
+.warnremove "player" #Remove all warnings of a player 
 
 #E.g. .warn player ffa 
 #First is just a warning, second is a kick and from the third warning onward every warning adds an additional 60 minute ban for every warning.
-.warns "player" #check warnings 
-.warnremove "player" #Remove all warnings of a player  
+
 
 .jail "player"
 .jail "player" "time" 
