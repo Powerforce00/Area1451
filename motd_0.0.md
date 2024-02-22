@@ -3,4 +3,6 @@
 
 ## Rules:
 * This is a duel server first of all, so don't interrupt any duels!!
+* 
 
+Follow these few rules, they are for the better experience.
