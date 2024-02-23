@@ -1,5 +1,5 @@
 ## ∘ Area ♠ 1451 ∘
-## « Area 1451 ♠ Noob friendly »
+## « Area ♠ 1451 »
 <a id="Area ♠ 1451 - Discord server">https://discord.gg/7G4J3ADXFE</>
 Join for further content and updates.
 
