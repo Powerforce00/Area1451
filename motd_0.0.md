@@ -12,9 +12,10 @@ Join for further content and updates.
 ## Rules
 - This is a duel server first of all, so don't interrupt any duels!!
 - Be patient and helpful to beginners.
-- Don't take revenge after somebody defeated you!
-- Bullying is forbidden.
 - Don't talk about political topics and stay away from racist comments.
+- Revenge attitude is not tolerated.
+- Bullying is forbidden.
+
 - Follow these few rules, they are for the better experience!!
 
-*Since August, 2023*
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ *Since August, 2023*
