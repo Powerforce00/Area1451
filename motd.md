@@ -1,4 +1,4 @@
-![MOTDpoll2](https://github.com/Powerforce00/Area1451/assets/145535983/bc00b90b-8f97-4073-b379-fa63f853ec42)
+![Welcome](https://github.com/Powerforce00/Area1451/assets/145535983/bc00b90b-8f97-4073-b379-fa63f853ec42)
 ‎<a id="Area ♤ 1451 DISCORD SERVER">https://discord.gg/7G4J3ADXFE</>
 Join for further content and updates.
 
