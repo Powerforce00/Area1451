@@ -3,8 +3,8 @@
 <a id="∘ Area ♤ 1451 ∘ Discord server ∘">https://discord.gg/7G4J3ADXFE</>
 Join for further content and updates.
 
-![MOTDpoll2](https://github.com/Powerforce00/Area1451/assets/145535983/a8a8dc2b-cc3e-4dbf-9de9-6eb6625aba04)
 
+![MOTDpoll2](https://github.com/Powerforce00/Area1451/assets/145535983/bc00b90b-8f97-4073-b379-fa63f853ec42)
 
 ## Rules
 - This is a duel server first of all, so don't interrupt any duels!!
